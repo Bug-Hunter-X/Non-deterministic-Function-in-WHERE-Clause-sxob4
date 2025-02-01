@@ -1,0 +1,1 @@
+The solution is to replace the non-deterministic function with a deterministic one or to rewrite the query to avoid the use of non-deterministic functions altogether. In this example, we replace the function with a simpler one that always returns the same result for the same input.
