@@ -1,0 +1,1 @@
+This repository contains a demonstration of a SQL query with a non-deterministic function in the WHERE clause. The query may produce different results depending on how the database executes it. A solution is also provided that uses a deterministic function instead.
