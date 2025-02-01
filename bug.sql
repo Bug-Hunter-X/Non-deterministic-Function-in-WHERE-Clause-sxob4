@@ -1,0 +1,1 @@
+The SQL query uses a function in the WHERE clause that is not deterministic. This can lead to unexpected results, because the function might return different values for the same input depending on the execution plan.
